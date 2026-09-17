@@ -44,19 +44,21 @@ I enjoy building practical systems that automate **application deployment, cloud
 
 ### ☁️ CloudOps — Cloud-Based Application Testing & Deployment Platform
 
-A cloud-native platform that automates **application building, testing, containerization, infrastructure provisioning, and deployment to AWS**.
+A cloud-based platform that allows developers to upload applications and test them in a real AWS environment by automating Docker image creation, AWS EC2 environment setup, application deployment, and health verification.
 
-**Tech Stack:** AWS · Docker · Jenkins · Kubernetes · Terraform · GitHub · Amazon ECR
+**Tech Stack:** AWS • EC2 • ECR • Docker • Jenkins • Kubernetes • Terraform • GitHub • Node.js • Express.js • JavaScript • TypeScript
+
+🔗 **[View CloudOps Project →](https://github.com/YalavarthiJaswanth/clouds-ops-web-application)**
 
 ---
 
 ### 🛡️ AI-Based Cyber Threat Detection & Alerting System
 
-A cybersecurity platform that analyzes cyberattack datasets, detects potentially malicious activity, generates automated alerts, and simulates threat containment workflows.
+A cybersecurity platform designed to analyze network activity, detect potentially malicious behavior, generate automated alerts, and simulate threat containment.
 
-**Tech Stack:** TypeScript · Cybersecurity · Threat Detection · Data Analysis
+**Tech Stack:** Cybersecurity • Network Security • Threat Detection • Security Monitoring • Docker • Jenkins • JavaScript • TypeScript
 
----
+🔗 **[View Cyber Threat Detection Project →](https://github.com/YalavarthiJaswanth/AI-Based-Cyber-Threat-Detection-Alerting-System)**
 
 ### 🔎 Deep Learning Approach for Efficient Multimodal Retrieval System
 
