@@ -216,42 +216,7 @@ Health Check
 
 ---
 
-# ☁️ Cloud & DevOps Architecture
 
-~~~text
-                    👨‍💻 Developer
-                         │
-                         ▼
-                      GitHub
-                         │
-                         ▼
-                   Jenkins CI/CD
-                         │
-                         ▼
-                    Docker Image
-                         │
-                         ▼
-                    Amazon ECR
-                         │
-                         ▼
-                ┌────────┴────────┐
-                ▼                 ▼
-              AWS EC2        Kubernetes
-                │                 │
-                └────────┬────────┘
-                         ▼
-                    Application
-                         │
-                         ▼
-                  Health Verification
-
-                 Terraform
-                     │
-                     ▼
-             AWS Infrastructure
-~~~
-
----
 
 # 🔐 Cybersecurity Focus
 
