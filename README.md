@@ -411,17 +411,19 @@ I'm interested in connecting with people working on **Cloud, DevOps, Cybersecuri
 
 ---
 
-# 📊 GitHub Activity
+---
+
+# 📊 GitHub Overview
 
 <div align="center">
 
-<a href="https://github.com/YalavarthiJaswanth">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YalavarthiJaswanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-
-<a href="https://github.com/YalavarthiJaswanth">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YalavarthiJaswanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+| ☁️ Cloud & DevOps | 🔐 Cybersecurity | 💻 Development |
+|:---:|:---:|:---:|
+| AWS | Threat Detection | JavaScript |
+| Docker | Network Security | TypeScript |
+| Kubernetes | Security Monitoring | Node.js |
+| Jenkins | Cloud Security | Express.js |
+| Terraform | Secure Infrastructure | REST APIs |
 
 </div>
 
@@ -431,7 +433,7 @@ I'm interested in connecting with people working on **Cloud, DevOps, Cybersecuri
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YalavarthiJaswanth&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=YalavarthiJaswanth&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -441,24 +443,21 @@ I'm interested in connecting with people working on **Cloud, DevOps, Cybersecuri
 
 <div align="center">
 
-| ☁️ Cloud | ⚙️ DevOps | 🔐 Security |
-|:---:|:---:|:---:|
-| AWS Infrastructure | CI/CD Automation | Threat Detection |
-| EC2 & ECR | Docker | Network Security |
-| IAM | Kubernetes | Cloud Security |
-| Cloud Deployment | Terraform | Security Monitoring |
+### ☁️ Cloud Infrastructure
+Building and automating applications in AWS environments.
+
+### ⚙️ DevOps Automation
+Working with Docker, Jenkins, Kubernetes and Terraform to automate deployment workflows.
+
+### 🔐 Cybersecurity
+Building systems for threat detection, network security and security monitoring.
+
+### 🛡️ Cloud Security
+Learning how to secure cloud infrastructure, applications and deployment pipelines.
 
 </div>
 
 ---
-
-<div align="center">
-
-## ☁️ Build. Automate. Secure. Deploy. 🚀
-
-**Thanks for visiting my profile!**
-
-</div>
 
 ### ☁️ Build. Automate. Secure. Deploy. 🚀
 
