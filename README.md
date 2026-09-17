@@ -407,7 +407,58 @@ I'm interested in connecting with people working on **Cloud, DevOps, Cybersecuri
 
 ---
 
+<div align="center"> 
+
+---
+
+# 📊 GitHub Activity
+
 <div align="center">
+
+<a href="https://github.com/YalavarthiJaswanth">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YalavarthiJaswanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+
+<a href="https://github.com/YalavarthiJaswanth">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YalavarthiJaswanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YalavarthiJaswanth&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🧩 What I'm Building
+
+<div align="center">
+
+| ☁️ Cloud | ⚙️ DevOps | 🔐 Security |
+|:---:|:---:|:---:|
+| AWS Infrastructure | CI/CD Automation | Threat Detection |
+| EC2 & ECR | Docker | Network Security |
+| IAM | Kubernetes | Cloud Security |
+| Cloud Deployment | Terraform | Security Monitoring |
+
+</div>
+
+---
+
+<div align="center">
+
+## ☁️ Build. Automate. Secure. Deploy. 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
 
 ### ☁️ Build. Automate. Secure. Deploy. 🚀
 
