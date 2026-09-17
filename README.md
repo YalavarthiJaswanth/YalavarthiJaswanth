@@ -182,39 +182,7 @@ A cybersecurity platform designed to **analyze network activity, detect potentia
 
 🔗 **[View Cyber Threat Detection Project →](https://github.com/YalavarthiJaswanth/AI-Based-Cyber-Threat-Detection-Alerting-System)**
 
----
-
-# 🔄 DevOps & Cloud Workflow
-
-~~~text
-Source Code
-     │
-     ▼
-  GitHub
-     │
-     ▼
-  Jenkins
-     │
-     ▼
- Build & Test
-     │
-     ▼
-   Docker
-     │
-     ▼
- Amazon ECR
-     │
-     ▼
-    AWS
-     │
-     ▼
-EC2 / Kubernetes
-     │
-     ▼
-Health Check
-~~~
-
----
+--
 
 
 
